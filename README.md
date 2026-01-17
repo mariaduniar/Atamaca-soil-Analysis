@@ -11,7 +11,7 @@ El análisis incluyó los siguientes pasos:
 * Filtrado y control de calidad de secuencias.
 * Generación de tabla de OTUs y árbol filogenético.
 * Rarefacción y análisis de diversidad alfa y beta.
-* Evaluación de diferencias entre grupos mediante pruebas estadísticas.
+* Evaluación de diferencias de riqueza e igualdad entre grupos mediante pruebas estadísticas.
 * Análisis de abundancia diferencial con **ANCOM**.
 * Comparación taxonómica de OTUs representativos mediante BLAST.
 
