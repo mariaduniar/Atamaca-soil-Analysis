@@ -1,7 +1,7 @@
 
 # Análisis metagenómico de suelos del desierto de Atacama con QIIME 2
 
-Este repositorio contiene el flujo de trabajo y los resultados principales del análisis de comunidades microbianas de suelos del desierto de Atacama basado en secuenciación del gen 16S rRNA y procesado con **QIIME 2**.
+Este repositorio contiene el flujo de trabajo y los resultados principales del análisis de comunidades microbianas de suelos del desierto de Atacama basado en secuenciación del gen 16S rRNA y procesado con **QIIME 2**. Las lecturas crudas y el archivo de metadatos puede obtenerse desde: https://docs.qiime2.org/2024.10/tutorials/atacama-soils/
 
 ## Metodología general
 
@@ -42,6 +42,6 @@ Atacama_QIIME2/
 ### Archivos clave
 
 * **qiime2_pipeline.txt** → contiene todos los comandos Bash utilizados en QIIME 2.
-* **qiime_outputs/** → artefactos generados por QIIME 2.
-* **figures/** → gráficas y visualizaciones finales del análisis.
+* **qiime_outputs/** → artefactos relevantes generados por QIIME 2.
+* **figures/** → gráficas y visualizaciones resultados del análisis.
 
