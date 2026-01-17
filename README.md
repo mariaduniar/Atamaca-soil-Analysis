@@ -27,16 +27,20 @@ Atacama_QIIME2/
 │   └── sample-metadata.tsv
 │
 ├── qiime_outputs/
-│   ├── table.qza
-│   ├── table.qzv
-│   ├── rooted-tree.qza
-│   └── core-metrics-results/
+│   ├── table.qzv (frecuencia de OTUs)
+│   ├── alpha-rarefaction-plot.qzv
+│   ├── rooted.tree.qza
+│   ├── core-metrics-results/
+│   ├── taxa-bar-plots.qzv
+│   ├── taxonomy.qzv
+│   └── ANCOM/
 │
 └── figures/
-    ├── rarefaction_curve.png
-    ├── pcoa_plot.png
-    ├── faith_boxplot.png
-    └── volcano_plot.png
+    ├── boxplot_faith_site_name.png
+    ├── boxplot_faith_vegetation.png
+    ├── OTU-frecuencies.png
+    ├── boxplot-eveness.png
+    └── volcano.png
 ```
 
 ### Archivos clave
